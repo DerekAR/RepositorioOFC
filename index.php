@@ -2,5 +2,5 @@
 
 	echo "Hello World!";
 
-	echo "La La La"
+	echo "La La La";
 ?>
